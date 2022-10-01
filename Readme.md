@@ -6,11 +6,11 @@
 Created an additional screen on the flashcard app which allows users to change the questions and answers presented on the flashcard. Users are also able to edit the question or answer on the flashcard by tapping the "pencil" icon on the card to edit. 
 
 ### App Walk-through
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-GIF URL: https://imgur.com/a/UDZoPUr
+GIF URL: https://imgur.com/a/oZ1s4tz
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+![](Lab2.gif)
 
 
 ## Required
@@ -47,8 +47,9 @@ GIF URL: https://imgur.com/a/UDZoPUr
 - [x] Add selectable multiple choice answers beneath the card
 
 Sources:
+
 Show/Hide Image in Swift: https://stackoverflow.com/questions/37569037/show-hide-image-in-swift/50921916
-for frontLabel.isHidden = !frontLabel.isHidden
+    for frontLabel.isHidden = !frontLabel.isHidden
 
 Background Image: 
 https://unsplash.com/photos/EWDvHNNfUmQ

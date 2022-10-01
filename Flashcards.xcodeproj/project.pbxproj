@@ -16,6 +16,7 @@
 		9D64E44E28D6388E003E1369 /* FlashcardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D64E44D28D6388E003E1369 /* FlashcardsTests.swift */; };
 		9D64E45828D6388E003E1369 /* FlashcardsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D64E45728D6388E003E1369 /* FlashcardsUITests.swift */; };
 		9D64E45A28D6388E003E1369 /* FlashcardsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D64E45928D6388E003E1369 /* FlashcardsUITestsLaunchTests.swift */; };
+		9D64E46728DD045A003E1369 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D64E46628DD045A003E1369 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9D64E45328D6388E003E1369 /* FlashcardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D64E45728D6388E003E1369 /* FlashcardsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsUITests.swift; sourceTree = "<group>"; };
 		9D64E45928D6388E003E1369 /* FlashcardsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9D64E46628DD045A003E1369 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9D64E43828D63889003E1369 /* SceneDelegate.swift */,
 				9D64E43A28D63889003E1369 /* ViewController.swift */,
 				9D64E43C28D63889003E1369 /* Main.storyboard */,
+				9D64E46628DD045A003E1369 /* CreationViewController.swift */,
 				9D64E43F28D6388D003E1369 /* Assets.xcassets */,
 				9D64E44128D6388D003E1369 /* LaunchScreen.storyboard */,
 				9D64E44428D6388D003E1369 /* Info.plist */,
@@ -261,6 +264,7 @@
 				9D64E43B28D63889003E1369 /* ViewController.swift in Sources */,
 				9D64E43728D63889003E1369 /* AppDelegate.swift in Sources */,
 				9D64E43928D63889003E1369 /* SceneDelegate.swift in Sources */,
+				9D64E46728DD045A003E1369 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

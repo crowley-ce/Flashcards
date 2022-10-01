@@ -5,7 +5,7 @@
 ### App Description
 Created an additional screen on the flashcard app which allows users to change the questions and answers presented on the flashcard. Users are also able to edit the question or answer on the flashcard by tapping the "pencil" icon on the card to edit. 
 
-### App Walk-though
+### App Walk-through
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 GIF URL: https://imgur.com/a/UDZoPUr

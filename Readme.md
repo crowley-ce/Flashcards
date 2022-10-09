@@ -1,5 +1,25 @@
 ## Flashcard App
 
+## Lab 3
+
+### App Description
+Created next and previous buttons to allow user to scroll through flashcards. Stored flashcards in an array allowing users to re-open the app and see saved flashcards. Also created a delete flashcard function which would remove the card from the array. 
+
+### App Walk-through
+
+GIF URL: https://imgur.com/a/j3sfkdI
+
+![](Lab3.gif)
+
+## Required
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
+## Optional
+- [X] User can delete a flashcard
+- [X] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 ## Lab 2
 
 ### App Description

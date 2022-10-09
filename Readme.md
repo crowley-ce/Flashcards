@@ -9,7 +9,7 @@ Created next and previous buttons to allow user to scroll through flashcards. St
 
 GIF URL: https://imgur.com/a/j3sfkdI
 
-![](Lab3.gif)
+![](lab3.gif)
 
 ## Required
 - [X] User can browse through multiple flashcards

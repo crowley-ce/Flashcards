@@ -1,5 +1,29 @@
 ## Flashcard App
 
+## Lab 4
+
+### App Description
+Spruced up my Flashcard app with animation and styles including an app icon, a splash screen, flip and slide animations, and a pop up animation once the app loads. Also got the multiple choice questions to store in the app and animate alongside the card. 
+
+### App Walk-through
+
+GIF URL: https://imgur.com/a/S5Zgeal
+
+![](lab4.gif)
+
+## Required
+- [X] User should see the app icon 
+- [X] User should see a splash screen
+- [X] User should see an flip animation when revealing the answer
+- [X] User should see a slide animation when going to the next flashcard
+- [X] User should see a slide animation when going to the previous flashcard
+- [X] Push code to GitHub
+## Optional
+- [X] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [X] User should see all views properly layout when using the app on a phone of different sizes
+- [X] Correct answer in multiple choice should be random
+
+
 ## Lab 3
 
 ### App Description
@@ -18,7 +42,7 @@ GIF URL: https://imgur.com/a/j3sfkdI
 ## Optional
 - [X] User can delete a flashcard
 - [X] User can edit existing flashcard
-- [ ] User can store multiple choice questions
+- [X] User can store multiple choice questions
 
 ## Lab 2
 
